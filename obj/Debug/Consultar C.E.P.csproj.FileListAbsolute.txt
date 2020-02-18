@@ -1,0 +1,9 @@
+C:\Users\samue\Documents\Csharp\Consultar C.E.P\bin\Debug\Consultar C.E.P.exe.config
+C:\Users\samue\Documents\Csharp\Consultar C.E.P\bin\Debug\Consultar C.E.P.exe
+C:\Users\samue\Documents\Csharp\Consultar C.E.P\bin\Debug\Consultar C.E.P.pdb
+C:\Users\samue\Documents\Csharp\Consultar C.E.P\obj\Debug\Consultar C.E.P.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Csharp\Consultar C.E.P\obj\Debug\Consultar_C.E.P.FrmBuscarCEP.resources
+C:\Users\samue\Documents\Csharp\Consultar C.E.P\obj\Debug\Consultar_C.E.P.Properties.Resources.resources
+C:\Users\samue\Documents\Csharp\Consultar C.E.P\obj\Debug\Consultar C.E.P.csproj.GenerateResource.cache
+C:\Users\samue\Documents\Csharp\Consultar C.E.P\obj\Debug\Consultar C.E.P.exe
+C:\Users\samue\Documents\Csharp\Consultar C.E.P\obj\Debug\Consultar C.E.P.pdb
